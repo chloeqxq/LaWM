@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="LaWM_header_v3.png" alt="LaWM: Least Action World Models for Long-Horizon Physical Consistency from Visual Observations" width="100%">
+  <img src="LaWM_header.png" alt="LaWM: Least Action World Models for Long-Horizon Physical Consistency from Visual Observations" width="100%">
 </p>
 
 
