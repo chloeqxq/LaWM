@@ -8,7 +8,7 @@ This is the official method-core repository for **LaWM**, a least-action world m
 <p align="center">
   <a href="https://chloeqxq.github.io/LaWM_ProjectPage/"><img height="32" alt="Project Page" src="https://img.shields.io/badge/Project%20Page-Visit%20Site-93c5fd?style=for-the-badge&labelColor=dbeafe"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://chloeqxq.github.io/LaWM_ProjectPage/LaWM.pdf"><img height="32" alt="Paper Under Review" src="https://img.shields.io/badge/Paper-Under%20Review-fcd34d?style=for-the-badge&labelColor=fef3c7"></a>
+  <a href="https://arxiv.org/pdf/2605.08279"><img height="32" alt="Paper Under Review" src="https://img.shields.io/badge/Paper-Under%20Review-fcd34d?style=for-the-badge&labelColor=fef3c7"></a>
 </p>
 
 ## 🔥 Update
